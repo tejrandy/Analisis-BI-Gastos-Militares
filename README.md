@@ -1,4 +1,4 @@
-# ANALISIS SOBRE GATOS MILITARES EN DOLARES
+# ANALISIS SOBRE GASTOS MILITARES EN DOLARES
 
 Este proyecto explora gastos a nivel mundial en la milicia.
 Estos resultados indican que Estados Unidos lidera en cuanto a la inversion en armamentos militares y los relacionado esto.
