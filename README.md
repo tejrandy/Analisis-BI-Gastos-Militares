@@ -1,9 +1,9 @@
-# ANALISIS SOBRE GASTOS MILITARES EN DOLARES
+# Análisis sobre Gastos Militares en Dólares
 
-Este proyecto explora gastos a nivel mundial en la milicia.
-Estos resultados indican que Estados Unidos lidera en cuanto a la inversion en armamentos militares y los relacionado esto.
+Este proyecto explora los gastos militares a nivel mundial, revelando que Estados Unidos lidera en inversión en armamentos y otros aspectos relacionados con la milicia. 
 
-Se puede observar que se han agrupado los gastos tanto en grados de alto a bajo y por continentes. 
-Esto nos permite observar qu el continente americano es donde se ha destinado la mayoria de los fondos a gastos militares.
+El análisis agrupa los gastos tanto por niveles, de mayor a menor, como por continentes. Los resultados indican que el continente americano es donde se ha destinado la mayor parte de los fondos a gastos militares.
+
+Esta perspectiva proporciona una visión clara de la distribución y la magnitud de la inversión militar a nivel global, destacando las diferencias regionales y la predominancia de Estados Unidos en este ámbito.
 
 ![image](https://github.com/tejrandy/Analisis-BI-Gastos-Militares/assets/38479499/b9b2f09f-ca29-47b6-91ce-45b1025f7db5)
