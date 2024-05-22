@@ -6,4 +6,4 @@ El análisis agrupa los gastos tanto por niveles, de mayor a menor, como por con
 
 Esta perspectiva proporciona una visión clara de la distribución y la magnitud de la inversión militar a nivel global, destacando las diferencias regionales y la predominancia de Estados Unidos en este ámbito.
 
-[![image]([https://github.com/tejrandy/Analisis-BI-Gastos-Militares/assets/38479499/b9b2f09f-ca29-47b6-91ce-45b1025f7db5](https://github.com/tejrandy/Analisis-BI-Gastos-Militares/blob/main/Gastos%20Militares.png))](https://github.com/tejrandy/Analisis-BI-Gastos-Militares/blob/main/Gastos%20Militares.png)
+https://github.com/tejrandy/Analisis-BI-Gastos-Militares/blob/main/Gastos%20Militares.png?raw=true
